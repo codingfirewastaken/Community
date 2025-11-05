@@ -1,9 +1,23 @@
 [
     {
+        "name": "Local Server",
+        "ips": ["localhost", "127.0.0.1"]
+    },
+    {
+        "name": "Anticheat-Test",
+        "ips": ["anticheat-test.com", "mc.stitch.best"],
+        "anticheat": "Test Server (Multiple)"
+    },
+    {
+        "name": "CCBlueX's Testserver",
+        "ips": ["ccbluex.net", "loyisa.cn"],
+        "anticheat": "Test Server (Multiple)"
+    },
+    {
         "name": "Hypixel Network",
         "ips": ["hypixel.net", "ilovecatgirls.xyz"],
         "anticheat": "Watchdog",
-        "ipBans": false,
+        "ipBans": true,
         "antiVpn": false
     },
     {
