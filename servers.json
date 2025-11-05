@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Hypixel Network",
+        "ips": ["hypixel.net", "ilovecatgirls.xyz"],
+        "anticheat": "Watchdog",
+        "ipBans": false,
+        "antiVpn": false
+    },
+    {
+        "name": "Minemen Club",
+        "ips": ["minemen.club"],
+        "anticheat": "AntiGamingChair",
+        "ipBans": false,
+        "antiVpn": false
+    },
+    {
+        "name": "Ghostly Network",
+        "ips": ["ghostly.live"],
+        "anticheat": "Old Vulcan",
+        "ipBans": true,
+        "antiVpn": false
+    },
+    {
+        "name": "Mineland Network",
+        "ips": ["mineland.net"],
+        "anticheat": "Intave",
+        "ipBans": false,
+        "antiVpn": true
+    },
+    {
+        "name": "Arch MC",
+        "ips": ["arch.mc"],
+        "anticheat": "Polar",
+        "ipBans": false,
+        "antiVpn": false
+    },
+    {
+        "name": "Gamster",
+        "ips": ["gamster.org"],
+        "anticheat": "Polar"
+    },
+    {
+        "name": "Pika Network",
+        "ips": ["pikanetwork.net", "pika-network.net"],
+        "anticheat": "Polar"
+    },
+    {
+        "name": "Jartex Network",
+        "ips": ["jartexnetwork.net", "jartex-network.net"],
+        "anticheat": "Polar"
+    },
+    {
+        "name": "FunnyMC",
+        "ips": ["funnymc.ru"],
+        "anticheat": "Matrix"
+    },
+    {
+        "name": "Blocks MC",
+        "ips": ["blocksmc.com"],
+        "anticheat": "Grim",
+        "ipBans": true,
+        "antiVpn": true
+    },
+    {
+        "name": "Hylex",
+        "ips": ["hylex.gg"],
+        "anticheat": "Grim",
+        "ipBans": false,
+        "antiVpn": false
+    }
+]
