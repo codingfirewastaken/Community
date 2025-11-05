@@ -86,6 +86,7 @@
     {
         "name": "ElevateMC",
         "ips": ["elevatemc.com"],
+        "gridBan": true,
         "ipBans": false,
         "antiVpn": true
     },
@@ -103,5 +104,12 @@
         "ipBans": true,
         "gridBan": true,
         "antiVpn": true
+    },
+    {
+        "name": "Bedwars Practice",
+        "ips": ["bedwarspractice.club"],
+        "ipBans": false,
+        "gridBan": false,
+        "antiVpn": false
     }
 ]
