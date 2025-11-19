@@ -136,17 +136,17 @@
         "name": "Universo Craft",
         "ips": ["mc.universocraft.com"],
         "anticheat": "Polar",
-        "ipBans": false,
+        "ipBans": true,
         "gridBan": false,
-        "antiVpn": false
+        "antiVpn": true
     },
     {
         "name": "MineMalia",
         "ips": ["play.minemalia.com"],
         "anticheat": "Polar",
-        "ipBans": false,
+        "ipBans": true,
         "gridBan": false,
-        "antiVpn": false
+        "antiVpn": true
     },
     {
         "name": "2B2T",
